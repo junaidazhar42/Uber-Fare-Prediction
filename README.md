@@ -13,6 +13,8 @@ pinned: true
 
 A machine learning web application that predicts Uber ride fares in New York City from natural-language location inputs. Type any address or landmark, pick your travel time, number of passengers and get an instant fare estimate — no coordinates required.
 
+![](images/image1.png)
+
 **[▶ Try the live demo](https://huggingface.co/spaces/junaidazhar/Uber-Fare-Prediction)**
 
 ---
@@ -121,6 +123,8 @@ nyc-fare-estimator/
 5. Features are passed to the trained Random Forest model
 6. The estimated fare and a route map are displayed
 
+![](images/image1.png)
+![](images/image2.png)
 ---
 
 *Built as a portfolio project · NYC Uber Fares Prediction using Spatial Temporal Modeling · OpenStreetMap geocoding*
